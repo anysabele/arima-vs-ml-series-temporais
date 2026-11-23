@@ -63,6 +63,7 @@ O código foi desenvolvido no **Google Colab**, e o caminho mais simples é abri
 ```
 .
 ├── time_series_analysis.py   # análise e experimentos das três séries
+├── apresentação_timeseriesanalysis.pdf
 └── README.md
 ```
 
